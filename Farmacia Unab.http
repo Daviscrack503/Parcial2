@@ -1,0 +1,6 @@
+@Farmacia_Unab_HostAddress = http://localhost:5199
+
+GET {{Farmacia_Unab_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
