@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial2", "Parcial2\Parcial2.csproj", "{EBE38A2A-8170-4EDD-B8A9-4B96F4E0780B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farmacia Unab", "Farmacia Unab\Farmacia Unab.csproj", "{B3882714-2FAE-4CE1-B906-272281AD3BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE38A2A-8170-4EDD-B8A9-4B96F4E0780B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE38A2A-8170-4EDD-B8A9-4B96F4E0780B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE38A2A-8170-4EDD-B8A9-4B96F4E0780B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE38A2A-8170-4EDD-B8A9-4B96F4E0780B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3882714-2FAE-4CE1-B906-272281AD3BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3882714-2FAE-4CE1-B906-272281AD3BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3882714-2FAE-4CE1-B906-272281AD3BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3882714-2FAE-4CE1-B906-272281AD3BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
